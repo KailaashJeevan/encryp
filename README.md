@@ -1,4 +1,5 @@
-#ENCRYP
+ENCRYP
+===============================================================================================================================
 
 
 ENCRYP provide new datatype for storing passwords or doing any operation with it.
